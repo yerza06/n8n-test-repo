@@ -1,6 +1,7 @@
 import os
 
 # TODO: While
+# INFO: Python
 while True:
     text = input("Введите текст: ")
     result = text.replace("<br>", "\n")
